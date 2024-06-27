@@ -6,7 +6,7 @@
 
 🚀 My aim is to secure my first role in tech by the end of this year, where I can apply my expertise in frontend development and continue to learn and grow in this exciting field.
 
-📫 You can reach me via email at nehemiasguillermo.it@gmail.com or connect with me on LinkedIn: [LinkedIn Profile].
+📫 You can reach me via email at nehemiasguillermo.it@gmail.com .
 
 😄 Pronouns: He/Him
 
