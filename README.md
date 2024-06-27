@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @NeToledo
-- 👀 I’m interested in web development, especially using HTML, CSS, JS, Node, and Angular.
-- 🌱 I’m currently learning agile methodologies and improving my skills in front-end development through a bootcamp. I'm just starting out and am eager to learn and grow in this field.
-- 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
-- 📫 How to reach me: You can reach me via email at nehemiasguillermo.it@gmail.com or connect with me on LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy using colorful synoptic charts to organize my studies and I'm excited to achieve my first job in tech.
+👋 Hello there! I’m Nehemias Toledo (@NeToledo), a passionate web developer focused on mastering frontend technologies such as HTML, CSS, JavaScript, Node.js, and Angular.
+
+🌱 Currently immersed in a bootcamp, I’m diving deep into agile methodologies while sharpening my frontend skills. My ultimate goal is to become proficient and specialize in frontend development, crafting user-friendly interfaces and delightful web experiences.
+
+💼 Actively seeking opportunities to collaborate on impactful open-source projects and contribute to innovative web development initiatives.
+
+🚀 My aim is to secure my first role in tech by the end of this year, where I can apply my expertise in frontend development and continue to learn and grow in this exciting field.
+
+📫 You can reach me via email at nehemiasguillermo.it@gmail.com or connect with me on LinkedIn: [LinkedIn Profile].
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy using colorful synoptic charts to organize and visualize my studies, making learning more effective and enjoyable.
 
 
 <!---
